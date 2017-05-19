@@ -1,0 +1,11 @@
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\bin\Debug\QLSTHi.exe.config
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.csprojResolveAssemblyReference.cache
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.FrmMenu.resources
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.FrmĐăngNhập.resources
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.Properties.Resources.resources
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.csproj.GenerateResource.Cache
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\bin\Debug\QLSTHi.exe
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\bin\Debug\QLSTHi.pdb
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.exe
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.pdb
+c:\users\sieuchip\documents\visual studio 2015\Projects\QLSTHi\QLSTHi\obj\Debug\QLSTHi.frmHangHoa.resources
